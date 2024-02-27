@@ -176,7 +176,7 @@ label:focus {
 }
 
 #network.disconnected {
-    background-color: #f53c3c;
+    background-color: rgba(144,0,234,0.7);
 }
 
 #pulseaudio {
@@ -220,7 +220,7 @@ label:focus {
 }
 
 #tray {
-    background-color: #2980b9;
+    background-color: rgba(144,0,234,1);
 }
 
 #tray > .passive {
