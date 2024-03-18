@@ -21,7 +21,7 @@ sudo $package_manager fish exa neofetch waybar inotify-tools otf-font-awesome ne
 
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 fish
-omf install bobthefish
+omf install bobthefish z
 fish
 set -g theme_powerline_fonts no
 cp .config/* ~/.config/
